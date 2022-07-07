@@ -1,7 +1,7 @@
 # MathQuiz-Android
 Game to Android / Juego para Android (apk)
 
--------------------------------------------------ENGLISH DESCRIPTION------------------------------------------------------------------------------------------------------
+-------------------------------------------------ENGLISH DESCRIPTION------------------------------------------------------------------------
 
 Math Quiz is a simple math game where you can practice with simple operations like addition, subtraction, multiplication and division.
 
@@ -14,7 +14,8 @@ Well, that is all, come and play in Math Quiz.
 IMPORTANT: you need to log in with an account to play in competitve mode and to share your best score.
 
 
--------------------------------------------------SPANISH DESCRIPTION------------------------------------------------------------------------------------------------------
+-------------------------------------------------SPANISH DESCRIPTION------------------------------------------------------------------------
+
 
 Math Quiz es un simple juego de matemáticas donde podras practicar operaciones simples como sumas, restas, multiplicación y division.
 
