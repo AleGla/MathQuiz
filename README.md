@@ -16,7 +16,7 @@ IMPORTANT: you need to log in with an account to play in competitve mode and to 
                                             
                                             ©AleGla Developer
                                             
-                                            ©MelDia Designer 
+                                            ©MelDia Designer  [Google](https://www.google.com)
 
 
 -------------------------------------------------SPANISH DESCRIPTION------------------------------------------------------------------------
