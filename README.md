@@ -13,6 +13,11 @@ Well, that is all, come and play in Math Quiz.
 
 IMPORTANT: you need to log in with an account to play in competitve mode and to share your best score.
 
+                                            
+                                            @AleGla Developer
+                                            
+                                            @Meldia Designer 
+
 
 -------------------------------------------------SPANISH DESCRIPTION------------------------------------------------------------------------
 
@@ -36,6 +41,11 @@ Eso no es todo, tenemos un modo competitivo, donde tendras que probar que eres e
 Bueno, eso es todo, ven y juega en Math Quiz. 
 
 IMPORTANTE: tienes que iniciar sesión con una cuenta para jugar el modo competitivo y para compartir tu mejor resultado.
+
+                                            
+                                            @AleGla Developer
+                                            
+                                            @Meldia Designer
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
