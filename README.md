@@ -16,7 +16,7 @@ IMPORTANT: you need to log in with an account to play in competitve mode and to 
                                             
                                             @AleGla Developer
                                             
-                                            @Meldia Designer 
+                                            @MelDia Designer 
 
 
 -------------------------------------------------SPANISH DESCRIPTION------------------------------------------------------------------------
@@ -45,7 +45,7 @@ IMPORTANTE: tienes que iniciar sesión con una cuenta para jugar el modo competi
                                             
                                             @AleGla Developer
                                             
-                                            @Meldia Designer
+                                            @MelDia Designer
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
